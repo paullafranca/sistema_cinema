@@ -1,12 +1,12 @@
 # sistema_cinema
+Sistema desenvolvido para fins acadÃªmicos...
 
-Discentes: Paulla Beatriz França de Sousa 
-           Julia Nunes de Oliveira
+Discentes: Paulla Beatriz FranÃ§a de Sousa e Julia Nunes de Oliveira;
 
-Observações gerais: 
-  1 - Neste repositório está duas aplicações + o script de população do banco: 
+ObservaÃ§Ãµes gerais: 
+  1 - Neste repositÃ³rio estÃ¡ duas aplicaÃ§Ãµes + o script de populaÃ§Ã£o do banco: 
   	'Api-cinema' -> contendo a api;
-	'Cinema' -> contendo a aplicação web;
+	'Cinema' -> contendo a aplicaÃ§Ã£o web;
    	'cinema.sql' -> script para povoar o banco;
-  2 - O script não é obrigatório usar, só se quiser povoar o banco (fica melhor de vizualizar a "pagination");
-  3 - Qualquer dúvida, manda uma mensagem;
+  2 - O script nÃ£o Ã© obrigatÃ³rio usar, sÃ³ se quiser povoar o banco (fica melhor de vizualizar a "pagination");
+  3 - Qualquer dÃºvida, manda uma mensagem;
